@@ -1,2 +1,3 @@
-Covers fundamental concepts such as syntax, variables, data types, and input/output.
-Example Topics: Hello World, Variables, Data Types, Input/Output, etc.
+Discusses different types of operators used in Java.
+
+Example Topics: Arithmetic Operators, Relational Operators, Logical Operators, Bitwise Operators
